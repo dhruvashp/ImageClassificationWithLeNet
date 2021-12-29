@@ -1,0 +1,15 @@
+splits folder
+contains 3 files - train, val, test
+each text file contains all the locations for the corresponding split in the form of -
+image location + class it belongs to
+
+classes are from 0 to 9 (1 to 10 in relevant folders)
+corresponds to the class file in data
+
+val is obviously within the test folder
+
+so,
+
+files in splits point to corresponding split locations in the test and train folder
+
+location is relative location with respect to the current directory (where this file is, code file is, etc.)

@@ -1,0 +1,11 @@
+,airplane_pred,bird_pred,car_pred,cat_pred,deer_pred,dog_pred,horse_pred,monkey_pred,ship_pred,truck_pred
+airplane_true,362,18,19,3,6,4,3,3,34,48
+bird_true,27,155,17,67,58,40,34,80,9,13
+car_true,18,9,304,15,8,4,10,4,21,107
+cat_true,7,43,19,150,63,40,63,69,8,38
+deer_true,19,28,9,58,232,22,83,33,5,11
+dog_true,5,42,4,71,66,107,111,85,0,9
+horse_true,6,17,7,39,60,34,280,42,2,13
+monkey_true,3,40,4,65,41,46,87,205,2,7
+ship_true,50,0,24,9,5,2,1,3,307,99
+truck_true,27,11,105,21,11,2,13,7,34,269

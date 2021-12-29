@@ -1,0 +1,11 @@
+,accuracy
+airplane_acc,0.724
+bird_acc,0.31
+car_acc,0.608
+cat_acc,0.3
+deer_acc,0.464
+dog_acc,0.214
+horse_acc,0.56
+monkey_acc,0.41
+ship_acc,0.614
+truck_acc,0.538
